@@ -20,19 +20,19 @@ Here are some ideas to get you started:
 
 - 🔭 I currently work at [Curology](https://curology.com/)
 
-- 👨‍💻 Learn more about me from my portfolio [williamhoward.io](https://williamhoward.io/)
+- 👨‍💻 Learn more about me at my portfolio [williamhoward.io](https://williamhoward.io/)
 
 - 💬 Ask me about **react, vue, web animations, gsap, and glsl**
 
 - 📫 Reach me through email **william.francis.howard@gmail.com**
 
-- 📄 Learn more about my experiences from [linkedin](https://www.linkedin.com/in/williamhoward-io/)
+- 📄 Find out about my experiences from [linkedin](https://www.linkedin.com/in/williamhoward-io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/monstereyes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="monstereyes" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/williamhoward-io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="williamhoward-io" height="30" width="40" /></a>
-<a href="https://codesandbox.com/monstereyes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="monstereyes" height="30" width="40" /></a>
+<a href="https://codesandbox.io/u/MonsterEyes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="monstereyes" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
