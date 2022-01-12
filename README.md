@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm William</h1>
-<h3 align="center">A passionate frontend developer from San Diego</h3>
+<h3 align="center">A delightful frontend developer from San Diego</h3>
 
 - 🔭 I currently work at [Curology](https://curology.com/)
 
