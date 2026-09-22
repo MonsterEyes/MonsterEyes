@@ -8,7 +8,7 @@
 
 - 🔭 I currently work at MiraDx
 
-- 👨‍💻 Learn more about me at my portfolio [williamhoward.io](https://williamhoward.io/)
+- 👨‍💻 Learn more about me at my portfolio [williamhoward.dev](https://williamhoward.dev/)
 
 - 💬 Ask me about frontend architecture, React, TypeScript at scale, design systems, testing strategies, and developer experience
 
