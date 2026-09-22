@@ -4,13 +4,13 @@
 -->
 
 <h1 align="center">Hi there 👋, I'm William</h1>
-<h3 align="center">A delightful frontend engineer from San Diego</h3>
+<h3 align="center">A frontend engineer from San Diego</h3>
 
-- 🔭 I currently work at [Curology](https://curology.com/)
+- 🔭 I currently work at MiraDx
 
 - 👨‍💻 Learn more about me at my portfolio [williamhoward.io](https://williamhoward.io/)
 
-- 💬 Ask me about **react, vue, web animations, gsap, and glsl**
+- 💬 Ask me about frontend architecture, React, TypeScript at scale, design systems, testing strategies, and developer experience
 
 - 📫 Reach me through email **william.francis.howard@gmail.com**
 
